@@ -66,11 +66,11 @@ handler.command = /^nulis$/i
 handler.owner = true
 handler.mods = true
 handler.premium = true
-handler.group = true
+handler.group = false
 handler.private = true
 
-handler.admin = true
-handler.botAdmin = true
+handler.admin = false
+handler.botAdmin = false
 
 handler.fail = null
 
